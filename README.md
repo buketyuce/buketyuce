@@ -1,6 +1,6 @@
 ### Hi there, I'm Buket Yüce :maple_leaf: :herb: 
 
-### Data Scientist | Data Analytics | Math Teacher 
+### Data Scientist | Data Analytics 
 
   <li>:herb: You can reach me; <a href="buketyuccee@gmail.com">buketyuccee@gmail.com</a> or <a href="https://twitter.com/bukittyy">Twitter</a>.</li>
 
